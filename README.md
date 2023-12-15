@@ -7,11 +7,11 @@ Welcome to the repository containing code implementations for Data Structure lab
 | Sr. No. | Experiment Description                                             |
 | ------- | ------------------------------------------------------------------ |
 | 1       | **Array ADT Operations on 2D Arrays**                             |
-|         | - Display array in row major                                       |
-|         | - Display array in column major                                    |
-|         | - Finding the transpose                                           |
-|         | - Matrix addition                                                 |
-|         | - Matrix multiplication                                           |
+|         |  Display array in row major                                       |
+|         |  Display array in column major                                    |
+|         |  Finding the transpose                                           |
+|         |  Matrix addition                                                 |
+|         |  Matrix multiplication                                           |
 | 2       | **Stack ADT**                                                     |
 |         | a) Program to PUSH items in two stacks and compare their contents |
 |         | b) Program to check the nesting validity of parentheses           |
